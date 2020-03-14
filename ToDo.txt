@@ -1,0 +1,8 @@
+>>RennoX ModZ Launcher To-Do<<
+
+1. Log in system
+2. Premium tab
+3. Discord connection
+4. Support
+> A window where you can message a team-member
+5. Customize launcher
