@@ -5,6 +5,6 @@ What is that?
 
 This is just a "Checker" for my RennoX-ModZ-Launcher
 
-I created this cuz I dont wanted to check the versions trought FTP
+I created this cuz I dont wanted to check the versions through FTP
 
 And I want to shutdown my website :p
