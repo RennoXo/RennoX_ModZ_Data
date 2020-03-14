@@ -1,0 +1,7 @@
+================02/29/2020===============
+Exploit got deactivated by the developer!
+=========================================
+Reason:
+Exploit wont inject anymore!
+=========================================
+-I'm working on a fix
