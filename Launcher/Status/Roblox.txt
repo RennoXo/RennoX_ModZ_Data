@@ -1,3 +1,1 @@
-nope
-
-to enable set all to "y"
+y
