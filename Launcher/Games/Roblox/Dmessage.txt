@@ -1,8 +1,7 @@
-================05/21/2020===============
+================05/23/2020===============
 Exploit got deactivated by the developer!
 =========================================
 Reason:
-THE EXPLOIT GOT DISABLED FOR TESTING
+UNKNOWN ERROR
 =========================================
-Im working on a new version of that exploit and disabled this version until the new version dont come out!
-It gets released today!
+UNKNOWN ERROR
